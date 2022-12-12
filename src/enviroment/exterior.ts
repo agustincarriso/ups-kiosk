@@ -1,5 +1,4 @@
 import { TriggerDoor } from "src/utils/triggerDoor"
-import { Dash_Material } from "../../node_modules/dcldash/dist/index"
 import { Scene } from "../congif/core/scene"
 import { SceneLocations } from "../congif/enums"
 import { Kiosco } from "../utils/kiosk"
